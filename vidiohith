@@ -1,6 +1,24 @@
 
 <channels>
 
+
+<channel>
+
+<name>[B][COLOR aquamarine]As Melhores Românticas Das Novelas[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/003/398/961/original/1629919217036.jpg?1629919268</thumbnail>
+
+<externallink>https://github.com/viko02/novelas/raw/main/novelas</externallink>
+
+<fanart>https://uploaddeimagens.com.br/images/002/880/625/full/AddText_09-15-06.01.11.jpg?1600203758</fanart>
+
+<info>[COLOR aquamarine]Boa parte do planejamento das novelas envolve a equipe de criação escolhendo músicas nacionais e internacionais para a trilha sonora. Isso é um processo muito importante, afinal muitas canções transcenderam a música em si e ficaram marcadas para a eternidade como “olha lá a música da novela tal”.
+Nessa aba, faça uma viagem através das músicas internacionais que estão com sua nostalgia atrelada a grandes novelas do passado.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channel>
 
 <name>[B][COLOR aquamarine]Os Maiores Sucessos Dos Anos 70[/COLOR][/B]</name>
@@ -66,16 +84,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[B][COLOR aquamarine]As Melhores Românticas Das Novelas[/COLOR][/B]</name>
+<name>[B][COLOR aquamarine]Sucessos do Rock Internacional[/COLOR][/B]</name>
 
-<thumbnail>https://uploaddeimagens.com.br/images/003/398/961/original/1629919217036.jpg?1629919268</thumbnail>
+<tthumbnailhttps://uploaddeimagens.com.br/images/003/399/791/original/1629959040918.jpg?1629959087</thumbnail>
 
-<externallink>https://github.com/viko02/novelas/raw/main/novelas</externallink>
+<externallink>https://github.com/viko02/rock/raw/main/rock</externallink>
 
 <fanart>https://uploaddeimagens.com.br/images/002/880/625/full/AddText_09-15-06.01.11.jpg?1600203758</fanart>
 
-<info>[COLOR aquamarine]Boa parte do planejamento das novelas envolve a equipe de criação escolhendo músicas nacionais e internacionais para a trilha sonora. Isso é um processo muito importante, afinal muitas canções transcenderam a música em si e ficaram marcadas para a eternidade como “olha lá a música da novela tal”.
-Nessa aba, faça uma viagem através das músicas internacionais que estão com sua nostalgia atrelada a grandes novelas do passado.[/COLOR]</info>
+<info>[COLOR aquamarine][/COLOR]</info>
 
 </channel>
 
@@ -141,22 +158,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://uploaddeimagens.com.br/images/002/880/625/full/AddText_09-15-06.01.11.jpg?1600203758</fanart>
 
 <info>[COLOR aquamarine]Uma seleção com as melhores músicas da banda Scorpions, Roxette, Bon Jovi, Elton John, Roupa Nova, Phil Collins[/COLOR]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[B][COLOR aquamarine]Sucessos do Rock Internacional[/COLOR][/B]</name>
-
-<tthumbnailhttps://uploaddeimagens.com.br/images/003/399/791/original/1629959040918.jpg?1629959087</thumbnail>
-
-<externallink>https://github.com/viko02/rock/raw/main/rock</externallink>
-
-<fanart>https://uploaddeimagens.com.br/images/002/880/625/full/AddText_09-15-06.01.11.jpg?1600203758</fanart>
-
-<info>[COLOR aquamarine][/COLOR]</info>
 
 </channel>
 
