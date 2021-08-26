@@ -1,495 +1,183 @@
-#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQB9kbQ-yB7hFiTkjqbTfHSqj5gg0NOL_hBoQ&usqp=CAU", Os Maiores Sucessos Dos Anos 70 Vol.1 Internacional
+<channels>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WyfoUPFFrCk
+<channel>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<name>[B][COLOR aquamarine]Os Maiores Sucessos Dos Anos 70[/COLOR][/B]</name>
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoLGCmjhTewfjpQIU083vJZ1djeVLlEY9etw&usqp=CAU", Os Maiores Sucessos Dos Anos 70 Vol.2 Internacional
+<thumbnail>https://uploaddeimagens.com.br/images/003/398/914/original/1629917463881.jpg?1629918510</thumbnail>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ymQcyVCUw_U
+<externallink>https://github.com/viko02/anos70/raw/main/anos70</externallink>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<fanart>https://uploaddeimagens.com.br/images/002/880/625/full/AddText_09-15-06.01.11.jpg?1600203758</fanart>
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQISLhW30DQVinDSvryxI68fBIaD9bbreChdA&usqp=CAU", Os Maiores Sucessos Dos Anos 70 Vol.3 Internacional
+<info>[COLOR aquamarine]A década de 70 foi sem dúvida alguma um dos períodos mais dançantes do século XX. Foi a era das discotecas, das pistas de dança e dos inesquecíveis embalos de sábado à noite. Seja para recordar ou mesmo conhecer, não deixe de dar uma olhada nesta lista com as melhores músicas dos anos 70 que preparamos para você![/COLOR]</info>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dbhXbZQviFE
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/112/full/20210501_115110.jpg?1619880727", BLOQUEADO-Os Maiores Sucessos Dos Anos 70 Vol.4 Internacional
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Tkxv6BOHYJg
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_185f411767484047a472e3108137b657~mv2.jpg", Os Maiores Sucessos Dos Anos 70 Vol.5 Internacional
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Tkxv6BOHYJg
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_XOn1rVidlzvKpMNk9Xdrrl9wjX2vL69D9Q&usqp=CAU", Os Maiores Sucessos Dos Anos 70 Vol.6 Internacional
+<channel>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jgA3I_Y0O5I
+<name>[B][COLOR aquamarine]Os Maiores Sucessos Dos Anos 80[/COLOR][/B]</name>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<thumbnail>https://uploaddeimagens.com.br/images/003/398/909/original/1629917354788.jpg?1629918423</thumbnail>
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/473/original/d73f9c_6013285ab84647eb87dbe69a635eb8e5_mv2.jpg?1619902936", Os Maiores Sucessos Dos Anos 70 Vol.7 Internacional
+<externallink>https://github.com/viko02/anos80/raw/main/anos80</externallink>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=e6URl5TAOuo
+<fanart>https://uploaddeimagens.com.br/images/002/880/625/full/AddText_09-15-06.01.11.jpg?1600203758</fanart>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBCsW2maqcZs4SuI0wdY0ZOhCsyK5omZEQ0A&usqp=CAU", Os Maiores Sucessos Dos Anos 70 Vol.8 Internacional
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1HkxYSzR_64
+<info>[COLOR aquamarine]A década de 80 foi uma das mais ricas musicalmente, com letras de um significado profundo, com baladas românticas que marcaram gerações, e com o crescimento de um rock político no cenário mundial. Também foi uma época próspera para as músicas disco e para a consolidação da carreira de grandes estrelas do pop. Os cabelos volumosos, ou com "mullets", e as ombreiras foram ícones do período. Relembre alguns sucessos internacionais  que embalaram as festas dos anos 80 e deixaram saudades.[/COLOR]</info>
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBe5BstUAWFahjQSCf5Ye8drqmBpgKn2hLPA&usqp=CAU", Os Maiores Sucessos Dos Anos 80  Vol. 1 Internacional
+<channel>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ipCji-4Cm0s
+<name>[B][COLOR aquamarine]Os Maiores Sucessos Dos Anos 90[/COLOR][/B]</name>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<thumbnail>https://uploaddeimagens.com.br/images/003/398/911/original/1629917432858.jpg?1629918471</thumbnail>
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YMUVEeW.jpg", Os Maiores Sucessos Dos Anos 80  Vol. 2 Internacional
+<externallink>https://github.com/viko02/anos80/raw/main/anos80</externallink>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tvL_8ot0ecM
+<fanart>https://uploaddeimagens.com.br/images/002/880/625/full/AddText_09-15-06.01.11.jpg?1600203758</fanart>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>[COLOR aquamarine]Saudades dos anos 90? Então você vai adorar ouvir essas coletâneas com as músicas internacionais mais tocadas nas rádios de todo o país e que bombaram no mundo inteiro. Bora lá?[/COLOR]</info>
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTL2rMDpERfkm9rzzbsu9SZ-asTyNk326pblA&usqp=CAU", Os Maiores Sucessos Dos Anos 80 Vol. 3 Internacional
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4g3oyAZ3kkg
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQawFVFwDpQhbApapdcvLE6IlabiQECvFIMng&usqp=CAU", Os Maiores Sucessos Dos Anos 80 Vol. 4 Internacional
+<channel>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DtACiIPVzoI
+<name>[B][COLOR aquamarine]Os Maiores Sucessos Dos Anos 2000[/COLOR][/B]</name>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<thumbnail>https://uploaddeimagens.com.br/images/003/398/916/original/1629917639461.jpg?1629918552</thumbnail>
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3U-Q3BorUvBu9tPAwSN9cufdCs-tleClZxw&usqp=CAU", Os Maiores Sucessos Dos Anos 80 Vol. 5 Internacional
+<externallink>https://github.com/viko02/anos2000/raw/main/anos2000</externallink>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UngHgPzN-9w
+<fanart>https://uploaddeimagens.com.br/images/002/880/625/full/AddText_09-15-06.01.11.jpg?1600203758</fanart>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>[COLOR aquamarine]Ao contrário dos anos 90 em que a sociedade se manteve fiel aos mesmos gêneros musicais, os ritmos e a nova forma de se ouvir música influenciaram bastante as pessoas durante os anos 2000 e ainda continuam a evoluir. Os cds acabaram perdendo força com o lançamento dos MP3 players, se tornando cada vez mais frequente adquirir música a partir de downloads e redes sociais. A utilização da internet aumentou muito a medida em que os anos se passavam ao longo da década. Contudo, esse aumento acabou potencializando a popularização dos downloads ilegais de músicas protegidas por direitos autorais, causando uma certa tensão entre a indústria musical e o público e gerando dúvidas sobre a popularidade das músicas nas paradas de sucesso.[/COLOR]</info>
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_8ca6903e4e4f4765a66c07b907301920~mv2.jpg", Os Maiores Sucessos Dos Anos 80  Vol. 6 Internacional
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iZke052-Y_c
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channel>
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/104/full/20210501_114129.jpg?1619880227", Os Maiores Sucessos Dos Anos 80  Vol. 7 Internacional
+<name>[B][COLOR aquamarine]As Melhores Românticas Das Novelas[/COLOR][/B]</name>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ziwKGHuQu5A
+<thumbnail>https://uploaddeimagens.com.br/images/003/398/961/original/1629919217036.jpg?1629919268</thumbnail>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<externallink>https://github.com/viko02/novelas/raw/main/novelas</externallink>
 
+<fanart>https://uploaddeimagens.com.br/images/002/880/625/full/AddText_09-15-06.01.11.jpg?1600203758</fanart>
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/108/full/20210501_114546.jpg?1619880409", Os Maiores Sucessos Dos Anos 80  Vol. 8 Internacional
+<info>[COLOR aquamarine]Boa parte do planejamento das novelas envolve a equipe de criação escolhendo músicas nacionais e internacionais para a trilha sonora. Isso é um processo muito importante, afinal muitas canções transcenderam a música em si e ficaram marcadas para a eternidade como “olha lá a música da novela tal”.
+Nessa aba, faça uma viagem através das músicas internacionais que estão com sua nostalgia atrelada a grandes novelas do passado.[/COLOR]</info>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=U75kN_mmyeQ
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/112/full/20210501_115110.jpg?1619880727", BLOQUEADO-Os Maiores Sucessos Dos Anos 90 Vol.1
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KB7BeJs-Flo
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_2f2a6d8139a44fab8627f4ad8f942473~mv2.jpg", Os Maiores Sucessos Dos Anos 90 Vol.2
+<channel>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KB7BeJs-Flo
+<name>[B][COLOR aquamarine]Românticas[/COLOR][/B]</name>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<thumbnail>https://uploaddeimagens.com.br/images/003/399/038/original/1629920508532.jpg?1629920553</thumbnail>
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_d7639d489b274316a7d2ac4fc6deaaaa~mv2.jpg", Os Maiores Sucessos Dos Anos 90 Vol.3
+<externallink>https://github.com/viko02/coracoes/raw/main/coracoes</externallink>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=neTQTXR_WCE
+<fanart>https://uploaddeimagens.com.br/images/002/880/625/full/AddText_09-15-06.01.11.jpg?1600203758</fanart>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>[COLOR aquamarine]Como diria a canção Love Is In The Air: O amor está no ar, em cada lugar que eu olho. Para quem está apaixonado, não existe um momento do ano que não tenha essa aura de amor.
+E se você está nessa vibe, como a gente, nada mais justo que aliarmos este sentimento ao que mais fala sobre o assunto: as músicas românticas. [/COLOR]</info>
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_d0436fdb182b4186bfb3eb2a74a37aa7~mv2.jpg", Os Maiores Sucessos Dos Anos 90 Vol.4
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bjCMBrwg4qY
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_6c60281b23294856b74795cf8e3cc3a1~mv2.jpg", Os Maiores Sucessos Dos Anos 90 Vol.5
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=yApwfHRYWaY
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_f414fd5d4fe34ed9b55d32b3b3ee05b5~mv2.jpg", Os Maiores Sucessos Dos Anos 90 Vol.6
+<channel>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fmHv6fZV0fs
+<name>[B][COLOR aquamarine]Rock Wave[/COLOR][/B]</name>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<thumbnail>https://uploaddeimagens.com.br/images/003/399/110/original/1629921812298.jpg?1629921864</thumbnail>
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/147/original/20210501_121246.jpg?1619882044", Os Maiores Sucessos Dos Anos 90 Vol.7
+<externallink>https://github.com/viko02/rockwave/raw/main/rockwave</externallink>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=glRPnSqaIPQ
+<fanart>https://uploaddeimagens.com.br/images/002/880/625/full/AddText_09-15-06.01.11.jpg?1600203758</fanart>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>[COLOR aquamarine]New wave é um gênero musical do rock surgido no final da década de 1970 ao lado do punk rock. O termo "new wave" engloba vários estilos musicais orientados ao rock e ao pop. Era considerado sinônimo de punk rock com instrumentação eletrônica e inclinações comerciais antes de se tornar um estilo musical e um movimento popular durante toda a década de 1980, com uma estética colorida e animada (por vezes futurística) que incorporava elementos de punk, eletrônica, disco e pop. Nessa aba você encontra 3 coletâneas com o melhor do rock wave  [/COLOR]</info>
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/144/original/20210501_121158.jpg?1619881992", Os Maiores Sucessos Dos Anos 90 Vol.8
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fmHv6fZV0fs
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channel>
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRINde3h2hbUjqz3bIVYcSLgnqiQppd4PkkDA&usqp=CAU", Sucessos Dos Anos 2000 Vol. 1 Internacional
+<name>[B][COLOR aquamarine]Rock Ballad[/COLOR][/B]</name>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0jKhDGApZDw
+<thumbnail>https://uploaddeimagens.com.br/images/003/399/120/original/1629922319726.jpg?1629922368</thumbnail>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<externallink>https://github.com/viko02/rballad/raw/main/rballad</externallink>
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/880/823/full/AddText_09-15-09.06.51.jpg?1600214838", Sucessos Dos Anos 2000 Vol. 2 Internacional
+<fanart>https://uploaddeimagens.com.br/images/002/880/625/full/AddText_09-15-06.01.11.jpg?1600203758</fanart>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=IjpuJIxpocM
+<info>[COLOR aquamarine]Rock ballad é um tipo de música normalmente caracterizado por ter um ritmo lento, com presença comum de guitarras elétricas e/ou acústicas e menos ênfase na percussão e baixo. Foi muito comum e popular durante a década de 80. Algumas partes da música podem incluir uma forte percussão e baixo para aumento do efeito emocional, e mais tarde a volta de uma guitarra elétrica, para o climax da música. Nos anos 80, estavam geralmente presentes em álbuns de bandas de rock, pop rock, hard rock e heavy metal. Algumas bandas contemporâneas podem ainda incluir um forte uso de piano.[/COLOR]</info>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/477/original/d73f9c_521165c178374baa8914f91065df015f_mv2.jpg?1619903111", Sucessos Dos Anos 2000 Vol. 3 Internacional
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lQTkVwWU75k
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/195/full/20210501_124710.jpg?1619884054", Sucessos Dos Anos 2000 Vol. 4 Internacional
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sM6rfvYU0YQ
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTC-8WV89DLTZReJ9JK9Ay03Hcwd53tstIzMw&usqp=CAU", As Melhores Românticas Das Novelas 1 Internacional
+<channel>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4iTlgFKntGM
+<name>[B][COLOR aquamarine]Definitivo[/COLOR][/B]</name>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<thumbnail>https://uploaddeimagens.com.br/images/003/399/213/original/1629922864541.jpg?1629922900</thumbnail>
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfYFDMZGGu9UD1LwF5JcLS74MoC65jYQfmUw&usqp=CAU", As Melhores Românticas Das Novelas 2 Internacional
+<externallink>https://raw.githubusercontent.com/viko02/definithivo/main/definithivo</externallink>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZCRLChOn6OY
+<fanart>https://uploaddeimagens.com.br/images/002/880/625/full/AddText_09-15-06.01.11.jpg?1600203758</fanart>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>[COLOR aquamarine]Uma seleção com as melhores músicas da banda Scorpions, Roxette, Bon Jovi, Elton John, Roupa Nova, Phil Collins[/COLOR]</info>
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/479/original/d73f9c_521165c178374baa8914f91065df015f_mv2.jpg?1619903515", As Melhores Românticas Das Novelas 3 Internacional
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Y6_06eya8PQ
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/481/original/file.jpg?1619903633", As Melhores Românticas Das Novelas 4 Internacional
+<channel>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9tT5qV89D5Y
+<name>[B][COLOR aquamarine]Sucessos do Rock Internacional[/COLOR][/B]</name>
+
+<tthumbnailhttps://uploaddeimagens.com.br/images/003/399/791/original/1629959040918.jpg?1629959087</thumbnail>
+
+<externallink>https://github.com/viko02/rock/raw/main/rock</externallink>
+
+<fanart>https://uploaddeimagens.com.br/images/002/880/625/full/AddText_09-15-06.01.11.jpg?1600203758</fanart>
+
+<info>[COLOR aquamarine][/COLOR]</info>
+
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/483/original/file2.jpg?1619903716", As Melhores Românticas Das Novelas 5 Internacional
+<channel>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ssk40PVtsLk
+<name>[B][COLOR aquamarine]Várias Coletâneas[/COLOR][/B]</name>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<tthumbnailhttps://uploaddeimagens.com.br/images/003/399/789/original/1629956402549.jpg?1629957637</thumbnail>
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/167/original/20210501_122846.jpg?1619882965", As Melhores Românticas Das Novelas 6 Internacional
+<externallink>https://github.com/viko02/variascoletaneas/raw/main/variascoletaneas</externallink>
 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Op_7JZtw94U
+<fanart>https://uploaddeimagens.com.br/images/002/880/625/full/AddText_09-15-06.01.11.jpg?1600203758</fanart>
+
+<info>[COLOR aquamarine][/COLOR]</info>
+
+</channel>
+
+</channels>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJNPqfPn_OOcj0KeFRUewPOU4KskVxjsbD8w&usqp=CAU", Corações a Mil Nacional
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hDhO6R0jlxw
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6RX4D8aS77SAgwLaiCbFq3yyVSyPsayDWeQ&usqp=CAU", Corações a Mil Internacional
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=COoJVS8_8T4
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/237/original/20210501_132002.jpg?1619886195", Corações a Mil 2 Internacional
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vvFC86-BV5M
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/236/original/20210501_131943.jpg?1619886163", Corações a Mil 3 Internacional
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=MIWaWJHV-gs
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/235/original/20210501_131924.jpg?1619886132", Corações a Mil 4 Internacional
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NvVz8okcBSw
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/234/original/20210501_131909.jpg?1619886099", Corações a Mil 5 Internacional
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OuiVJcxiQrY
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/233/original/20210501_131850.jpg?1619886054", Corações a Mil 6 Internacional
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=d4W2HN8gGcI
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSOpaF_neRBl0x6Vg_BJ5Ku6xBif-14njxwvg&usqp=CAU", Rock Wave
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TEqB-n_Quy4
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_9fee5af729c8450c821a2d74037041a2~mv2.jpg", Rock Wave 2
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=oTZ38C-QZmo
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_005098ac3f9b4cee8c8d10eb19dde71a~mv2.jpg", Rock Wave 3
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=B-I-_hDZpqw
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/880/715/full/AddText_09-15-07.40.17.jpg?1600209657", FM Internacional Lentas 2000
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Laz25dlkzJc
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8cewFzVjDwG8muLdr6bJOJPoyKN4LStHFw&usqp=CAU", FM Internacional Lentas 2000 Volume 2
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-LOj9RcX-2k
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_748efa262e8d424c877499ddbd952c60~mv2.jpg", Live & Unplugged Ballads
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JxeQ-Se-YMo
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWfq96FHmsKXaGzhP160tpXsN54mGGdg-Ang&usqp=CAU", Flashback Anos 80
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UoNn_BG9Gb0
-
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUxBwXT7nOtTusRLOWNec0jD2G6VTisk-usQ&usqp=CAU", Flashback Dance Anos 90
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=D_ZPS67R73I
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREJ22rYmq9O-6VaG8K18BQPiiMFWzXpYfyvw&usqp=CAU", Saudades
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZWjtZ24pwGw
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/266/full/20210501_134750.jpg?1619887700", Saudades Vol. 2
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FxHPZONjjNs
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfFQdDZMtJe1KQp22xlGbLzMkWr6QwAjVoA&usqp=CAU", Saudades Vol. 3
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=C0jkmwXH0zg
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_7f9ad025c8a6463195a2af9b8e8354c6~mv2.jpg", Rock Moments
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SwenVDtsicc
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1FBvM8eF_NijuciQ1gsIL4_q-_1ln3VB0jw&usqp=CAU", Rock Ballads
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=oX0avxQG6f8
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXjwIg_WscGH1rKlc8QFDUtOF2RoFzkmSsoQ&usqp=CAU", Rock Ballads 2
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3_oxguu1JwI
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKCZ2hBFU6RXN7edmmu9TDrDTlDr-FuFeQHA&usqp=CAU", Rock Ballads 3
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dAimiptIRMs
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRd890A_8BV-tYUslQW9LBkZINABWOEBdAKnA&usqp=CAU", Rock Ballads 4
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=i1L4qZ96tvI
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyavdAmQ78crioXokZpE0bd_pYm4tKSWoC6w&usqp=CAU", Rock Ballads 5
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=RYq_b6QDPcw
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_f0de781e47d04ae682155618a18de3e8~mv2.jpg", Rock Ballads 6
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kUr1XFfT59A
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNVS5kabC3R-w8Rb7xaeQmqL_q8oLoDX5XdQ&usqp=CAU", Rock Ballads 7
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VpZkPb1iW78
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qw3k89C.jpg", Rock Ballads 8
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qJn1qGA2M4I
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/295/original/20210501_140454.jpg?1619888761", Rock Ballads 9
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=U8DXPDqbsZQ
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_ffbe1f2cf0e24c52a7ede70edb5072cb~mv2.jpg", Ballads, The Best
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wrBqVsLEfqI
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/309/original/20210501_142305.jpg?1619889814", Classic Rock
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CioxPFhY6GY
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAH21jkgM1EjquskhmtM5B2ND5TF6ct6qNwg&usqp=CAU", Românticas Inesquecíveis
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=b5koFA2NCp8
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPu9C_x7puR88_JWPtb4ME_fy1BdQar52E_A&usqp=CAU", Clube Dos Namorados
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ak2f8-xr8B4
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRi2qijofZaa_rmRLqFs-oj19X6pUdlFPPADQ&usqp=CAU", Rock Light 2000 To 2010
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UHYg0h_Mh38
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_104840185da3414dad98b3e52046607d~mv2.jpg", FM Internacional 98.0
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3rbuTp-6tZ8
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/886/340/full/Screenshot_20200918-204604_Chrome.jpg?1600472808", Pure Rocks Band
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XSwqooN4y4Q
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_edf59c1110de46ae97690bb3be32497a~mv2.jpg", Amor Eterno Internacional
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QZRn4tKK1x0
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/320/original/20210501_144623.jpg?1619891214", Balladas Country
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Zwnv_g-N4ks
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_d6edc56f07ff416082e0b885339eef29~mv2.jpg", Nada Será Como Antes 1
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3KqiX7TLGYA
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_e6804c91ee4d4bc19802630cd42f1ef2~mv2.jpg", Nada Será Como Antes 2
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UKn8Xg4Lygk
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_a5a0138a665e40c2938ebb7a93d24b20~mv2.jpg", Nada Será Como Antes 3
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KPm05q-pZR4
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/358/original/20210501_152336.jpg?1619893495", Sucessos do Rock Internacional
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6QbQjcX3tYo
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/361/original/20210501_152430.jpg?1619893576", Sucessos do Rock Internacional 2
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XgIyk-7K8UE
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/360/original/20210501_152413.jpg?1619893546", Sucessos do Rock Internacional 3
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=g2aFGTgIYIg
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/366/original/20210501_153416.jpg?1619894091", The Best Of Rock N' Roll
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=C9RLc3dFsQQ
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/488/original/file3.jpg?1619904050", Elton John, Definitivo
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=O4XZVI1B01Q
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/858/406/original/The_Best.jpg?1598917435", Bon Jovi, Definitivo. CD Duplo
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=y79GSvJBgQs
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_460dfa4f8f294c2787f95bb5244ee3ba~mv2.jpg", Phil Collins, Definitivo
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EIygXC0TFKc
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_8b79d83056fe40eeb3beef93ab098dcd~mv2_d_1221_1521_s_2.jpg", Roxette, Definitivo
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TN_X1zlnJxc
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/885/791/full/AddText_09-18-02.51.12.jpg?1600451504", Roupa Nova,  Definitivo
-
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0k2Kf3mwzQI
